@@ -1,7 +1,18 @@
 .App {
   text-align: center;
 }
-
+.body1{
+ 
+  background-color: rgb(207, 206, 190);
+  image-resolution: 90px;
+  background-image: url("https://acwr.net/wp-content/uploads/2019_03_02_66706_1551461528._large.jpg");
+}
+.body2{
+  background-color: rgb(253, 236, 82);
+  background-image: url("https://wallpaperboat.com/wp-content/uploads/2020/09/14/54601/books-01.jpg");
+height: 850px;
+width: 1290px;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
